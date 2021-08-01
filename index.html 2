@@ -1,0 +1,111 @@
+-
+  
+  <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Selam T. Alem</title>
+</head>
+<body>
+  <div>
+    <h1> Selam T. Alem </h1>
+    <p> Creative, detail-oriented & self-sufficient learner who’s pursuing a strive in career. Ambitiously aiming to add value to a dynamic team while building skills and acquiring new knowledge with room for growth and advancement. Welcomes change and is well-versed in professionalism with a strong understanding of owns personal role in contribution to any given team.
+  </div>
+  
+  
+   <div class="History">
+     <h3> Professional Experience</h3>   
+    </div>
+  
+  <div>
+    <h4>International Quality Home Care</h4> 
+    <h5>Diagnostics Coding Admin.</h5>
+    <h6>(May 2020 — Present)</h6>
+    
+    <ul> 
+      <li> </li>
+      <li> </li>
+      <li> </li> 
+      <li> </li>
+    </ul>
+    
+    </div>
+  
+  
+    <div>
+    <h4>International Quality Home Care</h4> 
+    <h5>Diagnostics Coding Admin.</h5>
+    <h6>(May 2020 — Present)</h6>
+    
+    <ul> 
+      <li> </li>
+      <li> </li>
+      <li> </li> 
+      <li> </li>
+    </ul>
+    
+    </div>
+    <div>
+    <h4>International Quality Home Care</h4> 
+    <h5>Diagnostics Coding Admin.</h5>
+    <h6>(May 2020 — Present)</h6>
+    
+    <ul> 
+      <li> </li>
+      <li> </li>
+      <li> </li> 
+      <li> </li>
+    </ul>
+    
+    </div>
+  
+  
+    <div>
+    <h4>International Quality Home Care</h4> 
+    <h5>Diagnostics Coding Admin.</h5>
+    <h6>(May 2020 — Present)</h6>
+    
+    <ul> 
+      <li> </li>
+      <li> </li>
+      <li> </li> 
+      <li> </li>
+    </ul>
+    
+    </div>
+  
+  <div class="History">
+     <h3>Education</h3>   
+    </div>
+  
+  <div>
+    <h5>Winona State University</h5>
+    <h6>Bachelor of Arts - Social Work</h6>
+    <h6> (Jan 2019 - May 2022)</h6>
+  </div>
+    
+    
+    <div class="Refe">
+      <h3>References</h3>
+    </div>
+    
+    <div>
+      <h5>Shelli Arneson - Shelli.Arneson@rctc.edu</h5>
+      <h6>WSU/RCTC - Department Coordinator</h6>
+      <h6>(507)261-2040</h6>
+    </div>
+    
+    <div>
+      <h5>Ryan McGruder - Mcgruder.Ryan@Mayo.edu</h5>
+      <h6>Mayo Clinic - Supervision</h6>
+      <h6>(507)250-7999</h6>
+    </div>
+   
+    <div>
+      <h5>Cole S. - Meadowhills@CardinalofMinnesota.com</h5>
+      <h6>Cardinal of Minnesota, LTD. - Supervision</h6>
+      <h6>(507)272-1754</h6>
+    </div>
+    
+</body>
