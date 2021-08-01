@@ -1,1 +1,40 @@
+body{
+  background-color: #F7D7F5;
+  color: #46064F;
+  font-family: times new roman, Arial, Helvetica;
+  margin: 10%
+}
+
+.exp-header {
+  text-align; center;
+  text-transform: uppercase;
+  border-top: 2px Solid #D776CB;
+  border-bottom: 2px solid #D776CB;
+  background-color: #E4CCE4;
+}
+
+.skills{
+    text-align; center; 
+  text-transform: uppercase;
+  border-top: 2px Solid #D776CB;
+  border-bottom: 2px solid #D776CB;
+  background-color: #E4CCE4;
+}
+
+
+.edu{
+    text-align; center; 
+  text-transform: uppercase;
+  border-top: 2px Solid #D776CB;
+  border-bottom: 2px solid #D776CB;
+  background-color: #E4CCE4;
+}
+
+.Refe{
+    text-align; center; 
+  text-transform: uppercase;
+  border-top: 2px Solid #D776CB;
+  border-bottom: 2px solid #D776CB;
+  background-color: #E4CCE4;
+}
 
