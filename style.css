@@ -5,6 +5,11 @@ body{
   margin: 10%
 }
 
+.contact{
+  text-align; center;
+  background-color: #E9CDF1;
+}
+
 .exp-header {
   text-align; center;
   text-transform: uppercase;
@@ -37,4 +42,3 @@ body{
   border-bottom: 2px solid #D776CB;
   background-color: #E4CCE4;
 }
-
