@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Selam T. Alem</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div>
@@ -24,58 +25,69 @@
     <h6>(May 2020 — Present)</h6>
     
     <ul> 
-      <li> </li>
-      <li> </li>
-      <li> </li> 
-      <li> </li>
+      <li>Managing to oversee 5 branches less than 6 months with over 200+ clients</li>
+      <li>Coding each client & up-keeping with healthcare services their provided</li>
+      <li>Creating and editing Excel spreadsheets to manage data</li> 
+      <li>Learning different software's and training new employees</li>
     </ul>
     
     </div>
   
   
     <div>
-    <h4>International Quality Home Care</h4> 
-    <h5>Diagnostics Coding Admin.</h5>
-    <h6>(May 2020 — Present)</h6>
+    <h4>Cardinal of Minnesota, LTD.</h4> 
+    <h5>Professional Team Lead</h5>
+    <h6>(Nov 2018 — May 2020)</h6>
     
     <ul> 
-      <li> </li>
-      <li> </li>
-      <li> </li> 
-      <li> </li>
+      <li>Collaborating with Program Directors/Supervisors/ HR in search for new employees</li>
+      <li>Creating and presenting staff meetings each month</li>
+      <li>Running and operating mandated emergency drills quarterly with each client & staff</li> 
+      <li>Administrating medications & tracking client’s weights as well as overall health and safety each month</li>
     </ul>
-    
     </div>
-    <div>
-    <h4>International Quality Home Care</h4> 
-    <h5>Diagnostics Coding Admin.</h5>
-    <h6>(May 2020 — Present)</h6>
+    
+  <div>
+    <h4>Mayo Clinic Hospital</h4> 
+    <h5>Telecommunication Specialist</h5>
+    <h6>(Sep 2017 — Nov 2018)</h6>
     
     <ul> 
-      <li> </li>
-      <li> </li>
-      <li> </li> 
-      <li> </li>
+      <li>Liaised between patients & physicians to ensure patient comprehension of treatment plans</li>
+      <li>Closely collaborated with management team to make necessary improvements and satisfy patient’s needs</li>
+      <li>Getting the right team notified of emergency and guiding emergency team to the right locations</li> 
+      <li>First responder to outgoing 911 Emergency calls made from the building</li>
+    </ul>
+  </div>
+  
+  
+  <div>
+    <h4>Mayo Clinic -Paragon Development Systems, Inc.</h4> 
+    <h5>Deployment Technician</h5>
+    <h6>(Oct 2016 — Sep 2017)</h6>
+    
+    <ul> 
+      <li>Improved operations by working with team members and customers to find workable solutions</li>
+      <li>Preparing employee's computers for EPIC switch over for Mayo Clinic</li>
+      <li>Traveling through different Mayo Clinic buildings, including off-sight locations</li> 
+      <li>Preparing equipment's and traveling to multiple location for instalment</li>
+    </ul>
+  </div>
+  
+   <div class="Skills">
+     <h3> Skills</h3>   
+    </div>
+  
+    <ul> 
+      <li>Fluent - Multilingual (Amharic, Tigrinya & English)</li>
+      <li>Highly organized, accurate & detail Oriented</li>
+      <li>All Microsoft Off ice (10+ years) (60+ WPM)</li> 
+      <li>Effective & attentive speaking/listening skills</li>
     </ul>
     
     </div>
   
-  
-    <div>
-    <h4>International Quality Home Care</h4> 
-    <h5>Diagnostics Coding Admin.</h5>
-    <h6>(May 2020 — Present)</h6>
-    
-    <ul> 
-      <li> </li>
-      <li> </li>
-      <li> </li> 
-      <li> </li>
-    </ul>
-    
-    </div>
-  
-  <div class="History">
+  <div class="edu">
      <h3>Education</h3>   
     </div>
   
@@ -109,3 +121,8 @@
     </div>
     
 </body>
+  
+  
+  
+  
+
